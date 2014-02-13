@@ -57,10 +57,10 @@ WSGI_APPLICATION = 'Tutos.wsgi.application'
 
 DATABASES = {
     'default': {
-    'ENGINE': 'django.db.backends.mysql ',
-    'NAME': 'DjLogin',
-    'USER': 'lapin',
-    'PASSWORD': 'lapin',
+    'ENGINE': 'django.db.backends.mysql',
+    'NAME': 'Djlamif',
+    'USER': 'lamif',
+    'PASSWORD': '12Rapack',
     'HOST': 'gigondas',
     'PORT': '',
      }
